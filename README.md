@@ -57,7 +57,7 @@ The following items are available to be used, but only if the client code choose
 		- Define callbacks for events (blur, paste, keypress, etc)
 	- *-validation.js
 		- Pure functions used for validations
-    - form-us.js
+    - form-ux.js
     	- Handling of dom manipulations
     -  formatPan.js
     -  init.js
