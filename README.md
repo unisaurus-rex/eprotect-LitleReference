@@ -90,3 +90,5 @@ CSS Demo/Tool: https://unisaurus-rex.github.io/eprotect-iFrameAdvancedDemo/
 
 Empty Inputs: https://unisaurus-rex.github.io/eprotect-embeddedIframe/
 
+## Notes
+This repository does not have the form embedded as an iFrame. Please see the CSS Demo/tool for an example of an embedded iFrame form.
