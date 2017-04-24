@@ -28,8 +28,8 @@ Field validations will check the value of user inputs and add a css class to the
 | CVC |    Less than 3 digits   | |
 | | Greater than 4 digits | |
 | | Confirm length against card type | |
-| Expiration Month | right-aligned | |
-| Expiration Year | right-aligned | |
+| Expiration Month | | |
+| Expiration Year | | |
 
 ## Form Behavior
 The following behaviors have been added to the form and are not configurable by the user:
@@ -83,8 +83,6 @@ Demo: https://unisaurus-rex.github.io/eprotect-embeddedIframe/
 
 ## Demo Links
 Basic Demo: https://unisaurus-rex.github.io/eprotect-iframeEnhancements/ 
-
-Papa John’s Demo: https://unisaurus-rex.github.io/eprotect-iframeEnhancements/pj-demo/ 
 
 CSS Demo/Tool: https://unisaurus-rex.github.io/eprotect-iFrameAdvancedDemo/ 
 
