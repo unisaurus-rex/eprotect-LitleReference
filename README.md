@@ -78,11 +78,15 @@ The following items are available to be used, but only if the client code choose
 Determine if the iframe inputs are empty.  Client code will start the process by calling LitlePayframeClient.allInputsEmpty().  A callback handler will need to be written to handle the response from the iframe.  The response will be either ‘true’ or ‘false’.  The callback handler will be added to the config object passed to LitlePayframeClient.
 
 Code Repository: https://github.com/unisaurus-rex/eprotect-embeddedIframe
+
 Demo: https://unisaurus-rex.github.io/eprotect-embeddedIframe/
 
 ## Demo Links
 Basic Demo: https://unisaurus-rex.github.io/eprotect-iframeEnhancements/ 
+
 Papa John’s Demo: https://unisaurus-rex.github.io/eprotect-iframeEnhancements/pj-demo/ 
+
 CSS Demo/Tool: https://unisaurus-rex.github.io/eprotect-iFrameAdvancedDemo/ 
+
 Empty Inputs: https://unisaurus-rex.github.io/eprotect-embeddedIframe/
 
