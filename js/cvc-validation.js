@@ -86,13 +86,7 @@ function getCvcLengthByCardType(type){
 		visa: 3,
 		mastercard: 3,
 		discover: 3,
-		amex: 3.5, //amex can be 3 or 4
-		maestro: 3,
-		forbrugsforeningen: 3,
-		dankort: 3,
-		diners: 3,
-		unionpay: 3,
-		jcb: 3
+		amex: 3.5 //amex can be 3 or 4
 	};
 	if (type in map){
 		return map[type];

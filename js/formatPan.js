@@ -17,8 +17,7 @@ function formatPan( pan ){
   if (type == "amex"){
     return format4x6x5(pan);
   }
-  else if (type == "visa" || type == "mastercard" || type == "discover" 
-        || type == "jcb" || type == "dankort"){
+  else if (type == "visa" || type == "mastercard" || type == "discover"){
     return format4x4x4x4(pan);
   }
   else
