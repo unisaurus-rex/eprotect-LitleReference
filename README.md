@@ -28,8 +28,8 @@ Field validations will check the value of user inputs and add a css class to the
 | CVC |    Less than 3 digits   | |
 | | Greater than 4 digits | |
 | | Confirm length against card type | |
-| Expiration Month | right-aligned |    $1 |
-| Expiration Year | right-aligned |    $1 |
+| Expiration Month | right-aligned | |
+| Expiration Year | right-aligned | |
 
 ## Form Behavior
 The following behaviors have been added to the form and are not configurable by the user:
